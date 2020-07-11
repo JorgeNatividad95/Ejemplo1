@@ -10,6 +10,7 @@
             <div class="ctn-form">
                 <img src="imagenes/experimentar.png" alt="" class="logo">
                 <h1 class="title">Registro</h1>
+                <h2>Prueba de muestra</h2>
                 <form action="">
                 <label for="">Nombre completo</label>
                         <input type="text" name="" required="">
